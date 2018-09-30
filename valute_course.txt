@@ -1,0 +1,11 @@
+Валюты
+Доллар Dollar $%.2f
+Евро Euro %.2feur
+Рубль Ruble %.2frub
+Курс
+Dollar Euro 0.8
+Dollar Ruble 60
+Euro Dollar 1.5
+Euro Ruble 80
+Ruble Dollar 0.065
+Ruble Euro 0.085

@@ -1,0 +1,10 @@
+
+сент. 30, 2018 7:42:07 ПП FinanceCalculator main
+INFO: toDollar(toEuro($10.00)+5eur)=$19,50
+сент. 30, 2018 7:42:18 ПП FinanceCalculator main
+INFO: toRuble(toDollar(toEuro($10.00)+5eur))=1170,00rub
+сент. 30, 2018 7:42:31 ПП FinanceCalculator main
+INFO: toRuble(toDollar(toEuro($10.00)+5eur))-75rub=1095,00rub
+сент. 30, 2018 7:42:44 ПП FinanceCalculator main
+WARNING: toDollar(toEuro($10.00)+5eur)-75rub
+Нельзя вычитать разные валюты! Проверьте правильность введенного Вами выражения.
